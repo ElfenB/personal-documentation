@@ -1,6 +1,6 @@
 # How to use ssh-keys
 
-This is about how to log onto a server via ssh without having to use the password everytime.
+This is about how to log onto a server via ssh without having to use the password every time.
 
 See [this](https://www.youtube.com/watch?v=wSIsJWPhEqE) video for further explanations.
 
